@@ -1,0 +1,19 @@
+# Lokalna konfiguracija in poverilnice
+.env
+.env.*
+!.env.example
+.local-review/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Flutter in urejevalniki
+.dart_tool/
+.flutter-plugins-dependencies
+build/
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+~$*.docx
